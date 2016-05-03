@@ -1,7 +1,7 @@
-# databases
-database week
+Databases
+===
 
-USER STORY
+##USER STORY
 ```
 1.
 As a busy user
@@ -25,5 +25,6 @@ I want a feature to filter links by their tags
 
 ```
 
-AUTHORS:
+##AUTHORS:
+
 SityPop and Knowerlittle
