@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# databases
-=======
+
 Databases
 ===
 
@@ -31,4 +29,3 @@ I want a feature to filter links by their tags
 ##AUTHORS:
 
 SityPop and Knowerlittle
->>>>>>> 911b6f9a839e34a0bb4e34ac1d58f38a3b901807
